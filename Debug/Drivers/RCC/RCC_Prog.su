@@ -1,0 +1,4 @@
+RCC_Prog.c:22:6:vidRCC_Init	4	static
+RCC_Prog.c:46:6:vidRCC_RegInit	4	static
+RCC_Prog.c:110:6:vidRCC_EnableClock	16	static
+RCC_Prog.c:153:6:vidRCC_DisableClock	16	static

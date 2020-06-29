@@ -1,0 +1,7 @@
+NVIC_Prog.c:15:6:vidNVIC_Init	4	static
+NVIC_Prog.c:22:6:vidNVIC_SetPriority	16	static
+NVIC_Prog.c:27:6:vidNVIC_Enable	16	static
+NVIC_Prog.c:40:6:vidNVIC_Disable	16	static
+NVIC_Prog.c:54:6:vidNVIC_SetPending	16	static
+NVIC_Prog.c:69:6:vidNVIC_ClearPending	16	static
+NVIC_Prog.c:82:4:u8NVIC_GetActiveFlag	24	static

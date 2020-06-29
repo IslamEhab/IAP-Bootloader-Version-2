@@ -1,0 +1,4 @@
+DMA_Prog.c:16:6:vidDMA_Init	24	static
+DMA_Prog.c:90:6:vidDMA_ISRHandler	24	static
+DMA_Prog.c:187:6:vidDMA_Polling	32	static
+DMA_Prog.c:221:6:vidDMA_Transfer	24	static

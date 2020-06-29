@@ -1,0 +1,4 @@
+SYSTICK_Prog.c:15:6:vidSysTick_Reset	4	static
+SYSTICK_Prog.c:22:6:SysTick_Handler	4	static
+SYSTICK_Prog.c:30:6:_delay_ms	16	static
+SYSTICK_Prog.c:36:6:vidSYSTICK_Init	16	static

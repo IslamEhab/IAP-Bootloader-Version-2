@@ -1,0 +1,8 @@
+GPIO_Prog.c:15:6:vidGPIO_Init_Reg	4	static
+GPIO_Prog.c:111:6:vidGPIO_Init	16	static
+GPIO_Prog.c:124:6:vidGPIO_SetPortValue	16	static
+GPIO_Prog.c:129:6:vidGPIO_SetPinValue	16	static
+GPIO_Prog.c:151:6:vidGPIO_TogglePin	16	static
+GPIO_Prog.c:159:6:vidGPIO_AlternateFunction	16	static
+GPIO_Prog.c:175:4:u8GPIO_GetPinValue	24	static
+GPIO_Prog.c:186:5:u16GPIO_GetPortValue	16	static

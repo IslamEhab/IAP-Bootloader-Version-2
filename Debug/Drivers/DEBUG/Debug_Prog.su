@@ -1,0 +1,2 @@
+Debug_Prog.c:13:5:u16Get_MCU_ID	16	static
+Debug_Prog.c:25:5:u16Get_MCU_Revision_ID	16	static
